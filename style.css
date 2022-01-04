@@ -1,0 +1,42 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    
+}
+.arvy{
+    color: rgb(21, 255, 255);
+}
+section{
+    display: flex;
+}
+.half_width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half_width img{
+    width: 70%;
+}
+.hire_btn{
+    text-decoration: none;
+    background-color: aqua;
+    padding: 10px 40px;
+    border-radius: 7px;
+    font-weight: 700;
+    color: black;
+
+}
+.top_banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+
